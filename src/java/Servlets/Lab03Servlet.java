@@ -17,6 +17,7 @@ public class Lab03Servlet extends HttpServlet{
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         getServletContext().getRequestDispatcher("/WEB-INF/Calculator.jsp").forward(request,response);
+        return;
     }
 
    
