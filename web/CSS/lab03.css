@@ -1,0 +1,23 @@
+body{
+    background-color: yellow;
+}
+
+.names{
+    display: block;
+    margin: 3px;
+    
+   
+}
+
+.operations{
+    
+    margin-left: 3px;
+    width: 38px;
+}
+
+a{
+    margin: 35px;
+}
+
+
+
